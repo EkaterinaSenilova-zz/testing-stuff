@@ -1,0 +1,20 @@
+Let’s try to answer the all-concerned testers question, how to provide the speedy and qualify testing of the almost ready Software product. 
+The drawing on my experience, I quite sure that Exploratory testing is a method of manual software testing where test case designing, planning, and executing all happen 
+concurrently as the tester uncovers more and more of the app. 
+More than just “testing on the fly,” exploratory testing requires a great deal of experience and creativity to be effective. 
+You can’t just assign it to interns and hope they know how to cover the app effectively. 
+To provide comprehensive app coverage, testers can be strategically split up based on any number of different factors:
+- Feature sets
+- Actions and large desired outcomes
+- Types of user accounts
+- Testers’ ability to work like users in certain features or areas
+- Feature maturity level. 
+
+In order for each tester to truly cover what part of the software has been assigned to them requires both innovation and experience. 
+For example, when testing an app for slot game, a tester needs hard experience with what sort of features might be prone to cause bugs, 
+such as complicated mobile gestures, and they also need to stay in the moment and creatively assess new testing opportunities, 
+such as using some other currency setting in order to test the appropriate value game outcome. 
+How to build up an exploratory testing within a team with 3-4 members. 
+Explarotary testing is something that you have to investigate for. So, when a tester takes responsibility to do exploratory testing, 
+they act as an almost real science engineer within a short time to make the final decision based on hard knowledge.
+The tester's hard knowledge about all aspects of a software product developing is a clue to be succeeded. 
