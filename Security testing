@@ -1,0 +1,11 @@
+<Burp Suite> is an integrated platform for performing security testing of web applications. 
+It is designed to be used by hands-on testers to support the testing process.
+One of Burp Suite’s main features is its ability to intercept HTTP requests. 
+Normally HTTP requests go from your browser straight to a web server and then the web server response is sent back to your browser. 
+With Burp Suite, however, HTTP requests go from your browser straight to Burp Suite, which intercepts the traffic.
+
+In Burp Suite you can then tweak the raw HTTP in various ways before forwarding the request on to the web server. 
+Essentially this tool is acting as a proxy, a “man in the middle,” between you and the web application, 
+allowing you to have finer control over the exact traffic you are sending and receiving.
+
+Our goal with the Burp intercepting proxy feature is to tweak requests so they still follow the rules of HTTP, but can make the application act unexpectedly.
