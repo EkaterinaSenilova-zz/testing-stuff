@@ -11,6 +11,6 @@ allowing you to have finer control over the exact traffic you are sending and re
 Our goal with the Burp intercepting proxy feature is to tweak requests so they still follow the rules of HTTP, but can make the application act unexpectedly.
 https://portswigger.net/burp/communitydownload 
 
-2. OWASP 
+2. OWASP ZAP https://owasp.org/www-project-zap/ 
 
 3. Fiddler for Windows box
