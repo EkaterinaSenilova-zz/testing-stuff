@@ -1,0 +1,8 @@
+http://www.eviltester.com/apps/sloganizer/version/1/
+sloganizer.html
+console.log()
+for (var x=0; x<100; x++){console.log(" Hello " + x)} //loop, all 100 (0-99) hello strings are displayed 
+typeof ____
+setInterval(function(){changeSlogan()}, 1000) //where the main feature changeSlogan() has been used from .html
+var sloganbot = setInterval(function(){changeSlogan()}, 1000) //if we want to chage slogan every second 
+clearInterval(sloganbot) // setInterval should stop 
