@@ -6,3 +6,5 @@ typeof ____
 setInterval(function(){changeSlogan()}, 1000) //where the main feature changeSlogan() has been used from .html
 var sloganbot = setInterval(function(){changeSlogan()}, 1000) //if we want to chage slogan every second 
 clearInterval(sloganbot) // setInterval should stop 
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/snippets?hl=en //Snippets(chrome)=Scratchpad(FF) in the Sources panel
